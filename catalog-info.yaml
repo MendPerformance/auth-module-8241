@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: auth-module-8241
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/auth-module-8241
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
